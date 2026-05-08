@@ -1,0 +1,28 @@
+{
+  "name": "PGGM — Persekutuan Gereja-Gereja Mimika",
+  "short_name": "PGGM",
+  "description": "Aplikasi Resmi Persekutuan Gereja-Gereja Mimika — Sistem Pendataan Anggota",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a3a7c",
+  "theme_color": "#1a3a7c",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "social"],
+  "screenshots": []
+}
